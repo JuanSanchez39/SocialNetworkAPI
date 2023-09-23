@@ -10,8 +10,6 @@ The Social Network API is designed to power a web application where users can se
 - [Tech Stack](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [Questions](#questions)
 
 ## Technology:
 
